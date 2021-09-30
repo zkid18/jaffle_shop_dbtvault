@@ -44,8 +44,8 @@ id,first_name,last_name,email
 43,Kelly,Nguyen,knguyen16@altervista.org
 44,Jane,Rodriguez,jrodriguez17@biblegateway.com
 45,Scott,Brown,sbrown18@geocities.jp
-46,Norma,Cruz,ncruz19@si.edu
-47,Marie,Peters,mpeters1a@mlb.com
+46,Norma,Cruz,ncruz19@si.ru
+47,Marie,Peters,mpeters1a@mlb.ru
 48,Lillian,Carr,lcarr1b@typepad.com
 49,Judy,Nichols,jnichols1c@t-online.de
 50,Billy,Long,blong1d@yahoo.com
@@ -100,3 +100,5 @@ id,first_name,last_name,email
 99,Mary,Gray,mgray2q@constantcontact.com
 100,Jean,Mcdonald,jmcdonald2r@baidu.com
 101,Donald,Trump,d.trump@usa.gov
+102,Jimmy,Carr,jimmy@yandex.ru
+103,Jack,London,london@google.com
