@@ -50,6 +50,6 @@ models:
     pit:
       tags:
         - 'pit'
-      materialized: view
+      materialized: pit_incremental
 
 
